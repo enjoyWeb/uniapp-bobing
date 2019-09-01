@@ -1,0 +1,245 @@
+
+.ranking {
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	background-color: #333333;
+	font-family: "\9ED1\4F53";
+}
+.ranking_top {
+	background: url(http://test.chinajishu.com/WechatIMG1795.jpeg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	width: 100%;
+	height: 607rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+
+/* 前三 开始 */
+.one_img {
+	width: 150rpx;
+	height: 150rpx;
+	border-radius: 50%;
+	position: absolute;
+	top: 91rpx;
+	left: 296rpx;
+}
+.one_name {
+	width: 140rpx;
+	font-size: 26rpx;
+	color: #FFFFFF;
+	position: absolute;
+	top: 319rpx;
+	white-space: nowrap;
+	-o-text-overflow: ellipsis;
+	   text-overflow: ellipsis;
+	overflow: hidden;
+	text-align: center;
+}
+.one_number {
+	font-size: 26rpx;
+	color: #FFFFFF;
+	position: absolute;
+	top: 383rpx;
+	left: 345rpx;
+}
+.two_img {
+	width: 100rpx;
+	height: 100rpx;
+	border-radius: 50%;
+	position: absolute;
+	top: 215rpx;
+	left: 90rpx;
+}
+.two_name {
+	width: 140rpx;
+	font-size: 26rpx;
+	color: #FFFFFF;
+	position: absolute;
+	top: 385rpx;
+	left: 70rpx;
+	white-space: nowrap;
+	-o-text-overflow: ellipsis;
+	   text-overflow: ellipsis;
+	overflow: hidden;
+	text-align: center;
+}
+.two_number {
+	font-size: 26rpx;
+	color: #FFFFFF;
+	position: absolute;
+	top: 440rpx;
+	left: 120rpx;
+}
+.there_img {
+	width: 90rpx;
+	height: 90rpx;
+	border-radius: 50%;
+	position: absolute;
+	top: 249rpx;
+	right: 95rpx;
+}
+.there_name {
+	width: 140rpx;
+	font-size: 26rpx;
+	color: #FFFFFF;
+	position: absolute;
+	top: 378rpx;
+	right: 75rpx;
+	white-space: nowrap;
+	-o-text-overflow: ellipsis;
+	   text-overflow: ellipsis;
+	overflow: hidden;
+	text-align: center;
+}
+.there_number {
+	width: 100rpx;
+	font-size: 26rpx;
+	color: #FFFFFF;
+	position: absolute;
+	top: 437rpx;
+	right: 70rpx;
+}
+
+/* 前三 结束 */
+.ranking_content {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	width: 100%;
+	border-top-left-radius: 20rpx;
+	border-top-right-radius: 20rpx;
+	background-color: #FFFFFF;
+}
+.ranking_bottom {
+	padding-top: 70rpx;
+	width: 92%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+.ranking_bottom_box {
+	width: 100%;
+	height: 80rpx;
+	line-height: 80rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	    -ms-flex-direction: row;
+	        flex-direction: row;
+	padding-bottom: 20rpx;
+}
+.serial_number {
+	font-size: 26rpx;
+	color: #333333;
+	width: 50rpx;
+	text-align: center;
+}
+.box {
+	padding-left: 20rpx;
+	width: 660rpx;
+	height: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	    -ms-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	border-bottom: 1rpx solid #F1F1F1;
+}
+.box_left {
+	width: 310rpx;
+	height: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	    -ms-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+.box_right {
+	width: 100rpx;
+	text-align: center;
+	font-size: 26rpx;
+	color: #333333;
+}
+.box_img {
+	width: 60rpx;
+	height: 60rpx;
+	border-radius: 50%;
+}
+.box_word {
+	width: 170rpx;
+	font-size: 28rpx;
+	color: #333333;
+	white-space: nowrap;
+	-o-text-overflow: ellipsis;
+	   text-overflow: ellipsis;
+	overflow: hidden;
+}
+
