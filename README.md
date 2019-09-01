@@ -4,34 +4,23 @@
 用uniapp开发的博饼小程序，厦门六芒网络科技有限公司开源
 
 #### 软件架构
-软件架构说明
+前端采用uniapp开发
+后端采用tp5（暂不开源）
+
+#### 项目特色
+
+1.博饼是闽南一带的庆中秋玩法，所以在配音上采用了闽南语
+2.默认采用摇一摇，然后开始博饼。如果5秒内没摇，则自动开奖
+3.本系统采用一店一码
 
 
-#### 安装教程
+#### 演示地址
 
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### 使用说明
-
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### 参与贡献
-
-1. Fork 本仓库
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
+![](http://image.rowin.xin/uploads//wxacode/10/20190819/10awzjxixX_wxacode.jpg)
 
 
-#### 码云特技
 
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+
+#### 联系方式
+
+电话微信同号：15959267720
