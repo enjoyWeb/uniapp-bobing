@@ -1,7 +1,7 @@
 # 博饼
 
 #### 介绍
-用uniapp开发的博饼小程序，厦门六芒网络科技有限公司开源
+用uniapp开发的博饼小程序
 
 #### 软件架构
 前端采用uniapp开发
@@ -19,8 +19,3 @@
 ![](http://image.rowin.xin/uploads//wxacode/10/20190819/10awzjxixX_wxacode.jpg)
 
 
-
-
-#### 联系方式
-
-电话微信同号：15959267720
